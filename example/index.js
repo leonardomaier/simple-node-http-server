@@ -1,4 +1,4 @@
-import Server from './core/server.js';
+import Server from '../core/server.js';
 import userRoutes from './routes/user.routes.js';
 
 const server = new Server('localhost', 4321);

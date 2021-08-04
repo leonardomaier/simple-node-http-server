@@ -1,4 +1,4 @@
-import Routes from "../core/routes.js";
+import Routes from "../../core/routes.js";
 import UserController from '../controllers/user.controller.js';
 
 const userController = new UserController();
